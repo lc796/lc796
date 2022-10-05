@@ -15,5 +15,7 @@ Pronouns: he/him
 
 ### Languages, technologies, and interests:
 Languages: HTML | CSS | Javascript | SQL | Python | Java | PHP
+
 Technologies: Node | React
+
 Interests: Fullstack development / primarily frontend development
