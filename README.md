@@ -1,13 +1,19 @@
-### Hi there 👋
-**lc796/lc796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi I'm Luke 👋 Frontend Developer and Undergraduate at the University of Exeter
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/github/followers/lc796?label=Follow&style=social)](https://github.com/lc796)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Pronouns: he/him
+
+### Projects
+#### Working on:
+- [Personal portfolio](https://www.lukecs.dev)
+- Disaster web app
+
+#### Future projects:
+- personal blog
+- personal fitness tracker (web app)
+
+### Languages, technologies, and interests:
+Languages: HTML | CSS | Javascript | SQL | Python | Java | PHP
+Technologies: Node | React
+Interests: Fullstack development / primarily frontend development
