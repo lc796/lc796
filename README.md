@@ -7,7 +7,7 @@ Pronouns: he/him
 ### Projects
 #### Working on:
 - [Personal portfolio](https://www.lukecs.dev)
-- Disaster web app
+- [Disaster web app](https://disaster.lukecs.dev)
 
 #### Future projects:
 - personal blog
