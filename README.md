@@ -6,8 +6,8 @@ Pronouns: he/him
 
 ### Projects
 #### Working on:
-- Personal portfolio ([Live](https://www.lukecs.dev)[Repo](https://github.com/lc796/portfolio-frontend))
-- Disaster web app([Live](https://disaster.lukecs.dev)(https://github.com/lc796/disaster-display-frontend))
+- Personal portfolio ([Live](https://www.lukecs.dev)|[Repo](https://github.com/lc796/portfolio-frontend))
+- Disaster web app([Live](https://disaster.lukecs.dev)|[Repo](https://github.com/lc796/disaster-display-frontend))
 
 #### Future projects:
 - personal blog
