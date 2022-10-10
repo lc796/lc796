@@ -1,4 +1,4 @@
-### Hi, I'm Luke 👋 Frontend Developer and Undergraduate at the University of Exeter
+### Hi, I'm Luke 👋 Front-end developer and final-year undergraduate at the University of Exeter
 
 [![Github](https://img.shields.io/github/followers/lc796?label=Follow&style=social)](https://github.com/lc796)
 
