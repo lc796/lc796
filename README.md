@@ -12,6 +12,7 @@ Pronouns: he/him
 #### Future projects:
 - personal blog
 - personal fitness tracker (web app)
+- codepill: pool Git repos, pull issues from each repo, and click generate to choose random issues to work on - maybe a Matrix theme
 
 ### Languages, technologies, and interests:
 Languages: HTML | CSS | Javascript | SQL | Python | Java | PHP
